@@ -1,6 +1,6 @@
 streamlit
 torch
-clip
-transformers
+torchvision
+clip-by-openai
 Pillow
 numpy
